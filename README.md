@@ -5,3 +5,5 @@ Tutorial
 git
 
 python
+
+jquery
