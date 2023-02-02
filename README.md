@@ -1,2 +1,7 @@
 # Techvaraha
 Tutorial
+
+
+git
+
+python
