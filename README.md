@@ -6,4 +6,3 @@ git
 
 python
 
-jquery
